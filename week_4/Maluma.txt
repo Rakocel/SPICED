@@ -1,0 +1,744 @@
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]--><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Maluma Lyrics</title>
+<meta name="description" content="Maluma Lyrics - All the great songs and their lyrics from Maluma on Lyrics.com">
+<meta name="keywords" content="Maluma lyrics, Maluma song lyrics, Maluma lyric">
+	<meta name="viewport" content="width=device-width">
+<base href="https://www.lyrics.com/">
+
+<script>s4Prefix='https://static.stands4.com';version='1.3.31';</script>
+
+<!-- Bootstrap compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+<!--<link rel="stylesheet" href="--><!--/app_common/css/normalize.css">-->
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="preload" href="//fonts.googleapis.com/css2?family=Oxygen:wght@400;700&family=Droid+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Droid+Sans+Mono&family=Yanone+Kaffeesatz:wght@200;300;400;700&family=Alegreya+Sans:wght@700;800&family=Goudy+Bookletter+1911&family=Original+Surfer&display=block" as="style"/>
+<link rel="stylesheet" href="//fonts.googleapis.com/css2?family=Oxygen:wght@400;700&family=Droid+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Droid+Sans+Mono&family=Yanone+Kaffeesatz:wght@200;300;400;700&family=Alegreya+Sans:wght@700;800&family=Goudy+Bookletter+1911&family=Original+Surfer&display=block" media="print" onload="this.media='all'"/>
+<noscript><link rel="stylesheet" href="//fonts.googleapis.com/css2?family=Oxygen:wght@400;700&family=Droid+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Droid+Sans+Mono&family=Yanone+Kaffeesatz:wght@200;300;400;700&family=Alegreya+Sans:wght@700;800&family=Goudy+Bookletter+1911&family=Original+Surfer&display=block"/></noscript>
+
+<link rel="stylesheet" href="https://static.stands4.com/app_common/css/lyrc.css?v=1.7.99">
+<!--[if lt IE 9]> <link rel="stylesheet" href="https://static.stands4.com/app_common/css/lyrc-ie8.css"> <![endif]-->
+<!--[if lt IE 8]> <link rel="stylesheet" href="https://static.stands4.com/app_common/css/lyrc-ie7.css"> <![endif]-->
+<link rel="shortcut icon" type="image/x-icon" href="https://static.stands4.com/app_common/img/favicon_lyrc.ico">
+<link rel="icon" type="image/x-icon" href="https://static.stands4.com/app_common/img/favicon_lyrc.ico">
+<link rel="search" type="application/opensearchdescription+xml" title="Lyrics.com" href="https://static.stands4.com/app_lyrics/open-search.xml">
+
+<!--[if lt IE 9]>
+<script src="https://static.stands4.com/app_common/js/libs/html5shiv.min.js"></script>
+<script src="https://static.stands4.com/app_common/js/libs/respond.min.js"></script>
+<![endif]--><!-- DFP head code - START -->
+<script>var adsStart=(new Date()).getTime();function detectWidth(){return window.screen.width||window.innerWidth||window.document.documentElement.clientWidth||Math.min(window.innerWidth,window.document.documentElement.clientWidth)||window.innerWidth||window.document.documentElement.clientWidth||window.document.getElementsByTagName('body')[0].clientWidth;}var TIMEOUT=1000;var EXCHANGE_RATE=3.28;var screenSizeMobile=768;var googletag=googletag||{};googletag.cmd=googletag.cmd||[];var pbjs=pbjs||{};pbjs.que=pbjs.que||[];var adUnits=adUnits||[];function initAdServer(){if(pbjs.initAdserverSet)return;(function(){var gads=document.createElement('script');gads.async=true;gads.type='text/javascript';gads.src='https://securepubads.g.doubleclick.net/tag/js/gpt.js';var node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads,node);})();pbjs.initAdserverSet=true;};pbjs.timeout=setTimeout(initAdServer,TIMEOUT);pbjs.timeStart=adsStart;var mapSizeMRU=[[300,250],[300,600]];if(detectWidth()<screenSizeMobile)mapSizeMRU=[[300,250]];var dfpNetwork='52304935';adUnits.push({network:dfpNetwork,adunit:(detectWidth()>=screenSizeMobile)?"Lyrics_IA_300x250_A":"Lyrics_Mobile_IA_300x250_A",size:[[300,250],[1,1]],code:'div-gpt-ad-Lyrics_IA_300x250_A',assignToVariableName:false});adUnits.push({network:dfpNetwork,adunit:(detectWidth()>=screenSizeMobile)?"Lyrics_IA_300x250_B":"Lyrics_Mobile_IA_300x250_B",size:[[300,250]],code:'div-gpt-ad-Lyrics_IA_300x250_B',assignToVariableName:false});adUnits.push({network:dfpNetwork,adunit:(detectWidth()>=screenSizeMobile)?"Lyrics_LR_300x250_A":"Lyrics_Mobile_LR_300x250_A",size:mapSizeMRU,code:'div-gpt-ad-Lyrics_LR_300x250_A',assignToVariableName:false});adUnits.push({network:dfpNetwork,adunit:(detectWidth()>=screenSizeMobile)?"Lyrics_LR_300x250_B":"Lyrics_Mobile_LR_300x250_B",size:mapSizeMRU,code:'div-gpt-ad-Lyrics_LR_300x250_B',assignToVariableName:false});adUnits.push({network:dfpNetwork,adunit:(detectWidth()>=screenSizeMobile)?"Lyrics_LR_300x250_C":"Lyrics_Mobile_LR_300x250_C",size:mapSizeMRU,code:'div-gpt-ad-Lyrics_LR_300x250_C',assignToVariableName:false});adUnits.push({network:dfpNetwork,adunit:(detectWidth()>=screenSizeMobile)?"Lyrics_LR_300x250_D":"Lyrics_Mobile_LR_300x250_D",size:mapSizeMRU,code:'div-gpt-ad-Lyrics_LR_300x250_D',assignToVariableName:false});adUnits.push({network:dfpNetwork,adunit:"Lyrics_LR_125x125",size:[[125,125]],code:'div-gpt-ad-Lyrics_LR_125x125',assignToVariableName:false});googletag.cmd.push(function(){if(adUnits){var dfpSlots=[];for(var i=0,len=adUnits.length;i<len;i++){dfpSlots[i]=googletag.defineSlot('/'+adUnits[i].network+'/'+adUnits[i].adunit,adUnits[i].size,adUnits[i].code).addService(googletag.pubads());if(adUnits[i].assignToVariableName&&(adUnits[i].assignToVariableName!==null))window[adUnits[i].assignToVariableName]=dfpSlots[i];}}});googletag.cmd.push(function(){pbjs.que.push(function(){pbjs.setTargetingForGPTAsync();});googletag.pubads().setTargeting("device",(detectWidth()<screenSizeMobile)?"mobile":"desktop");googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs();googletag.enableServices();});</script>
+<script type="text/javascript" async src="https://static.stands4.com/app_common/js/prebid.js"></script>
+<!-- DFP head code - END --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-172613-15"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','UA-172613-15');</script><meta property="fb:app_id" content="118234861672613"/>
+<meta name="google-signin-client_id" content="567628204450-49mrbnlqde6k322k6j1nmpstf86djv24.apps.googleusercontent.com">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-6071864913982699",enable_page_level_ads:true});</script><script>(function(){'use strict';var g=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this||self,m=/^[\w+/_-]+[=]{0,2}$/,p=null,q=function(){},r=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b},u=function(a,b){function c(){}c.prototype=b.prototype;a.prototype=new c;a.prototype.constructor=a};var v=function(a,b){Object.defineProperty(l,a,{configurable:!1,get:function(){return b},set:q})};var y=function(a,b){this.b=a===w&&b||"";this.a=x},x={},w={};var aa=function(a,b){a.src=b instanceof y&&b.constructor===y&&b.a===x?b.b:"type_error:TrustedResourceUrl";if(null===p)b:{b=l.document;if((b=b.querySelector&&b.querySelector("script[nonce]"))&&(b=b.nonce||b.getAttribute("nonce"))&&m.test(b)){p=b;break b}p=""}b=p;b&&a.setAttribute("nonce",b)};var z=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^+new Date).toString(36)};var A=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)},B=function(a){this.a=a||l.document||document};B.prototype.appendChild=function(a,b){a.appendChild(b)};var C=function(a,b,c,d,e,f){try{var k=a.a,h=A(a.a,"SCRIPT");h.async=!0;aa(h,b);k.head.appendChild(h);h.addEventListener("load",function(){e();d&&k.head.removeChild(h)});h.addEventListener("error",function(){0<c?C(a,b,c-1,d,e,f):(d&&k.head.removeChild(h),f())})}catch(n){f()}};var ba=l.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ca=l.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),da=l.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),ea=function(a,b,c){this.b=a;this.f=new B(this.b);this.a=null;this.c=[];this.g=!1;this.i=b;this.h=c},F=function(a){if(a.b.body&&!a.g){var b=function(){D(a);l.setTimeout(function(){return E(a,3)},50)};C(a.f,a.i,2,!0,function(){l[a.h]||b()},b);a.g=!0}},D=function(a){for(var b=G(1,5),c=0;c<b;c++){var d=H(a);a.b.body.appendChild(d);a.c.push(d)}b=H(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=G(100,110).toString()+"%";b.style.zIndex=G(2147483544,2147483644).toString();b.style["background-color"]=I(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=I(0,10,0,10,0,10);b.style.display="flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=H(a);c.style.width=G(80,85).toString()+"%";c.style.maxWidth=G(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=A(a.f.a,"IMG");d.className=z();d.src=ba;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=H(a),f=H(a);f.style["font-weight"]="bold";f.textContent=ca;var k=H(a);k.textContent=da;J(a,e,f);J(a,e,k);J(a,c,d);J(a,c,e);J(a,b,c);a.a=b;a.b.body.appendChild(a.a);b=G(1,5);for(c=0;c<b;c++)d=H(a),a.b.body.appendChild(d),a.c.push(d)},J=function(a,b,c){for(var d=G(1,5),e=0;e<d;e++){var f=H(a);b.appendChild(f)}b.appendChild(c);c=G(1,5);for(d=0;d<c;d++)e=H(a),b.appendChild(e)},G=function(a,b){return Math.floor(a+Math.random()*(b-a))},I=function(a,b,c,d,e,f){return"rgb("+G(Math.max(a,0),Math.min(b,255)).toString()+","+G(Math.max(c,0),Math.min(d,255)).toString()+","+G(Math.max(e,0),Math.min(f,255)).toString()+")"},H=function(a){a=A(a.f.a,"DIV");a.className=z();return a},E=function(a,b){0>=b||null!=a.a&&0!=a.a.offsetHeight&&0!=a.a.offsetWidth||(fa(a),D(a),l.setTimeout(function(){return E(a,b-1)},50))},fa=function(a){var b=a.c;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:g(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.c=[];(b=a.a)&&b.parentNode&&b.parentNode.removeChild(b);a.a=null};var ia=function(a,b,c,d,e){var f=ha(c),k=function(n){n.appendChild(f);l.setTimeout(function(){f?(0!==f.offsetHeight&&0!==f.offsetWidth?b():a(),f.parentNode&&f.parentNode.removeChild(f)):a()},d)},h=function(n){document.body?k(document.body):0<n?l.setTimeout(function(){h(n-1)},e):b()};h(3)},ha=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var K={},L=null;var M=function(){},N="function"==typeof Uint8Array,O=function(a,b){a.b=null;b||(b=[]);a.j=void 0;a.f=-1;a.a=b;a:{if(b=a.a.length){--b;var c=a.a[b];if(!(null===c||"object"!=typeof c||Array.isArray(c)||N&&c instanceof Uint8Array)){a.g=b-a.f;a.c=c;break a}}a.g=Number.MAX_VALUE}a.i={}},P=[],Q=function(a,b){if(b<a.g){b+=a.f;var c=a.a[b];return c===P?a.a[b]=[]:c}if(a.c)return c=a.c[b],c===P?a.c[b]=[]:c},R=function(a,b,c){a.b||(a.b={});if(!a.b[c]){var d=Q(a,c);d&&(a.b[c]=new b(d))}return a.b[c]};M.prototype.h=N?function(){var a=Uint8Array.prototype.toJSON;Uint8Array.prototype.toJSON=function(){var b;void 0===b&&(b=0);if(!L){L={};for(var c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),d=["+/=","+/","-_=","-_.","-_"],e=0;5>e;e++){var f=c.concat(d[e].split(""));K[e]=f;for(var k=0;k<f.length;k++){var h=f[k];void 0===L[h]&&(L[h]=k)}}}b=K[b];c=[];for(d=0;d<this.length;d+=3){var n=this[d],t=(e=d+1<this.length)?this[d+1]:0;h=(f=d+2<this.length)?this[d+2]:0;k=n>>2;n=(n&3)<<4|t>>4;t=(t&15)<<2|h>>6;h&=63;f||(h=64,e||(t=64));c.push(b[k],b[n],b[t]||"",b[h]||"")}return c.join("")};try{return JSON.stringify(this.a&&this.a,S)}finally{Uint8Array.prototype.toJSON=a}}:function(){return JSON.stringify(this.a&&this.a,S)};var S=function(a,b){return"number"!==typeof b||!isNaN(b)&&Infinity!==b&&-Infinity!==b?b:String(b)};M.prototype.toString=function(){return this.a.toString()};var T=function(a){O(this,a)};u(T,M);var U=function(a){O(this,a)};u(U,M);var ja=function(a,b){this.c=new B(a);var c=R(b,T,5);c=new y(w,Q(c,4)||"");this.b=new ea(a,c,Q(b,4));this.a=b},ka=function(a,b,c,d){b=new T(b?JSON.parse(b):null);b=new y(w,Q(b,4)||"");C(a.c,b,3,!1,c,function(){ia(function(){F(a.b);d(!1)},function(){d(!0)},Q(a.a,2),Q(a.a,3),Q(a.a,1))})};var la=function(a,b){V(a,"internal_api_load_with_sb",function(c,d,e){ka(b,c,d,e)});V(a,"internal_api_sb",function(){F(b.b)})},V=function(a,b,c){a=l.btoa(a+b);v(a,c)},W=function(a,b,c){for(var d=[],e=2;e<arguments.length;++e)d[e-2]=arguments[e];e=l.btoa(a+b);e=l[e];if("function"==r(e))e.apply(null,d);else throw Error("API not exported.");};var X=function(a){O(this,a)};u(X,M);var Y=function(a){this.h=window;this.a=a;this.b=Q(this.a,1);this.f=R(this.a,T,2);this.g=R(this.a,U,3);this.c=!1};Y.prototype.start=function(){ma();var a=new ja(this.h.document,this.g);la(this.b,a);na(this)};var ma=function(){var a=function(){if(!l.frames.googlefcPresent)if(document.body){var b=document.createElement("iframe");b.style.display="none";b.style.width="0px";b.style.height="0px";b.style.border="none";b.style.zIndex="-1000";b.style.left="-1000px";b.style.top="-1000px";b.name="googlefcPresent";document.body.appendChild(b)}else l.setTimeout(a,5)};a()},na=function(a){var b=Date.now();W(a.b,"internal_api_load_with_sb",a.f.h(),function(){var c;var d=a.b,e=l[l.btoa(d+"loader_js")];if(e){e=l.atob(e);e=parseInt(e,10);d=l.btoa(d+"loader_js").split(".");var f=l;d[0]in f||"undefined"==typeof f.execScript||f.execScript("var "+d[0]);for(;d.length&&(c=d.shift());)d.length?f[c]&&f[c]!==Object.prototype[c]?f=f[c]:f=f[c]={}:f[c]=null;c=Math.abs(b-e);c=1728E5>c?0:c}else c=-1;0!=c&&(W(a.b,"internal_api_sb"),Z(a,Q(a.a,6)))},function(c){Z(a,c?Q(a.a,4):Q(a.a,5))})},Z=function(a,b){a.c||(a.c=!0,a=new l.XMLHttpRequest,a.open("GET",b,!0),a.send())};(function(a,b){l[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];l[a]=q;b.apply(null,d)}})("__d3lUW8vwsKlB__",function(a){"function"==typeof window.atob&&(a=window.atob(a),a=new X(a?JSON.parse(a):null),(new Y(a)).start())});}).call(this);window.__d3lUW8vwsKlB__("WyI1YmQwZmUyZWU4M2JiZDUxIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2YvQUdTS1d4VndFbmxHOW9NVlZNTUs3c1lld0tjQXJIVWxKN0R0R0N6ZEtQZHlDdTFNNkktcFZ6MkpLcE9WcjFNbGVoVkQyUkxEcFkwSGNiMld6U3gwdjZGMzRrNFx1MDAzZCJdCixbMjAsImRpdi1ncHQtYWQiLDEwMCwiTldKa01HWmxNbVZsT0ROaVltUTFNUVx1MDAzZFx1MDAzZCIsW251bGwsbnVsbCxudWxsLCJodHRwczovL3d3dy5nc3RhdGljLmNvbS8wZW1uL2YvcC81YmQwZmUyZWU4M2JiZDUxLmpzP3VzcXBcdTAwM2RDQUkiXQpdCiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hWZUlia2txYjlfT1VXREZEMWZlclZjLU1UUUFMM0MySGhra25DU3IzaDdtMmw4b2FxMGJXV0RJRm1UUmhaWW05TXpaQmNwWmxwRl9TNW9iZmEyP2FiXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2wvQUdTS1d4WDVNV0Z6dFMybHdIMno4Q3FXalBMRUV4ZDNQN1lqQnVpX2pyWTVVaU9mNUpNOXFOWkVFQ2JyVG0wTVF0djVIZkRoTlNKSnV3U0N2bEVXWlo1aj9hYlx1MDAzZDJcdTAwMjZzYmZcdTAwM2QxIiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hVNG9laV9BQ0lNS21YSmxxalFMN3NuU3dWbEp0TzBTYXR2aklnR2JFdHNUYV9jT3BYQUg5amFmUHd1dWVHYkktai1kNzEwWGVfUTJ0bnRJdko2P3NiZlx1MDAzZDIiXQo=");</script>
+</head>
+<body id="s4-page-artist" data-fb="118234861672613" data-atp="ra-4f75bf3d5305fac2">
+
+<div id="page-container">
+<header id="header">
+	<div id="header-int" class="clearfix">		
+					<div id="user-login">
+				<a href="login.php">Login</a>&nbsp;<i class="fa fa-sign-in" aria-hidden="true"></i>
+			</div>
+				<div id="network-header"><span id="network-header-trigger">The&nbsp;<span class="hidden-xs">STANDS4&nbsp;</span>Network<span class="arw">&#9776;</span></span>
+	<ul id="network-header-links" style="display:none;">
+		<li class="nw-abbreviations"><a href="https://www.abbreviations.com/">ABBREVIATIONS</a></li>
+		<li class="nw-anagrams"><a href="https://www.anagrams.net/">ANAGRAMS</a></li>
+		<li class="nw-biographies"><a href="https://www.biographies.net/">BIOGRAPHIES</a></li>
+		<li class="nw-calculator"><a href="https://www.calculators.net/">CALCULATORS</a></li>
+		<li class="nw-convert"><a href="https://www.convert.net/">CONVERSIONS</a></li>
+		<li class="nw-definitions"><a href="https://www.definitions.net/">DEFINITIONS</a></li>
+		<li class="nw-grammar"><a href="https://www.grammar.com/">GRAMMAR</a></li>
+		<li class="nw-literature"><a href="https://www.literature.com/">LITERATURE</a></li>
+		<li class="nw-lyrics"><a href="https://www.lyrics.com/">LYRICS</a></li>
+		<li class="nw-phrases"><a href="https://www.phrases.com/">PHRASES</a></li>
+		<li class="nw-poetry"><a href="https://www.poetry.com/">POETRY</a></li>
+		<li class="nw-quotes"><a href="https://www.quotes.net/">QUOTES</a></li>
+		<li class="nw-references"><a href="https://www.references.net/">REFERENCES</a></li>
+		<li class="nw-rhymes"><a href="https://www.rhymes.net/">RHYMES</a></li>
+		<li class="nw-scripts"><a href="https://www.scripts.com/">SCRIPTS</a></li>
+		<li class="nw-symbols"><a href="https://www.symbols.com/">SYMBOLS</a></li>
+		<li class="nw-synonyms"><a href="https://www.synonyms.com/">SYNONYMS</a></li>
+		<li class="nw-uszip"><a href="https://www.uszip.com/">USZIP</a></li>
+	</ul>
+</div>	</div>
+</header><div id="main" role="main" class="container">
+<div id="content-top" class="content-top">
+	<div class="view-search view-desktop hidden-xs">
+		<form id="search-frm" method="get" action="subserp.php">
+	<input type="hidden" name="genre" value="">
+	<input type="hidden" name="style" value="">
+	<input type="hidden" name="year" value="">
+	<input type="hidden" name="dec" value="">
+    <div class="page-top-search rc5">
+        	<div class="page-word-search">
+        		<input id="search" type="text" class="page-word-search-query rc5" name="st" value="" placeholder="Search for lyrics or artists..." autocomplete="off">
+        		<div class="page-word-search-icon"><i class="fa fa-search" aria-hidden="true"></i></div>
+        		<button type="submit" class="btn primary" id="page-word-search-button">Search</button>
+        	</div>
+        	<div class="page-word-search-ops">
+        		<div><input type="radio" class="custom-rb" name="qtype" id="page-word-search-op1" value="1" checked="checked"><label for="page-word-search-op1"><span>In Lyrics</span></label></div>
+        		<div><input type="radio" class="custom-rb" name="qtype" id="page-word-search-op2" value="2"><label for="page-word-search-op2"><span>By Artist</span></label></div>
+        		<div><input type="radio" class="custom-rb" name="qtype" id="page-word-search-op3" value="3"><label for="page-word-search-op3"><span>By Album</span></label></div>
+        	</div>
+    </div>
+    <div class="page-letter-search rc5"><a href="/artists/0">#</a><a href="/artists/A">A</a><a href="/artists/B">B</a><a href="/artists/C">C</a><a href="/artists/D">D</a><a href="/artists/E">E</a><a href="/artists/F">F</a><a href="/artists/G">G</a><a href="/artists/H">H</a><a href="/artists/I">I</a><a href="/artists/J">J</a><a href="/artists/K">K</a><a href="/artists/L">L</a><a href="/artists/M">M</a><a href="/artists/N">N</a><a href="/artists/O">O</a><a href="/artists/P">P</a><a href="/artists/Q">Q</a><a href="/artists/R">R</a><a href="/artists/S">S</a><a href="/artists/T">T</a><a href="/artists/U">U</a><a href="/artists/V">V</a><a href="/artists/W">W</a><a href="/artists/X">X</a><a href="/artists/Y">Y</a><a href="/artists/Z">Z</a><span class="vbar">&nbsp;</span><a href="/justadded" class="z">NEW</a><a href="random.php" class="z"><i class="fa fa-random" aria-hidden="true"></i></a></div>
+</form>		<div class="page-top-logo" onclick="location.href='https://www.lyrics.com/';"><img src="https://static.stands4.com/app_common/img/top_logo_lyr.png" alt="Lyrics.com" title="Lyrics.com"></div>
+	</div>
+	<div class="view-search view-mobile visible-xs">
+		<form id="search-frm-mob" method="get" action="subserp.php">
+	<input type="hidden" name="genre" value="">
+	<input type="hidden" name="style" value="">
+	<input type="hidden" name="year" value="">
+	<input type="hidden" name="dec" value="">
+	<div class="page-top-search">
+		<div class="page-word-search" style="width: calc(100% - 110px);">
+			<div class="input-group">
+				<input id="search-mob" type="text" class="page-word-search-query form-control rc5" name="st" value="" placeholder="Search for lyrics..." autocomplete="off">
+				<span class="input-group-btn"><button id="page-word-search-button-mob" class="btn primary" type="submit" aria-label="Search for lyrics or artists"><i class="fa fa-search" aria-hidden="true"></i></button></span>
+			</div>
+		</div>
+		<div class="page-word-search-ops">
+			<div><input type="radio" class="custom-rb" name="qtype" id="page-word-search-m-op1" value="1" checked="checked"><label for="page-word-search-m-op1"><span>In Lyrics</span></label></div>
+			<div><input type="radio" class="custom-rb" name="qtype" id="page-word-search-m-op2" value="2"><label for="page-word-search-m-op2"><span>By Artist</span></label></div>
+			<div><input type="radio" class="custom-rb" name="qtype" id="page-word-search-m-op3" value="3"><label for="page-word-search-m-op3"><span>by Album</span></label></div>
+		</div>
+	</div>
+	<div class="page-letter-search"></div>
+</form>		<div class="page-top-logo" onclick="location.href='https://www.lyrics.com/';"><img src="https://static.stands4.com/app_common/img/top_logo_lyr.png" alt="Lyrics.com" title="Lyrics.com"></div>
+	</div>
+</div>
+<div class="row">
+
+	<div id="content-main" class="col-sm-8 col-sm-push-4">
+
+		<div id="content-body">
+			
+			<div id="artist-about">
+					
+				<div id="disp-quote" class="category-header clearfix">
+					<hgroup class="no-margin">
+						<h3><a href="artist/Maluma/2669415">Famous lyrics by&nbsp;&raquo;</a></h3>
+					</hgroup>
+					
+        				<div id="featured-artist-avatar" data-artist="Maluma" data-img="1">
+        					<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScAY-QLTJoBxxsfPxF2N-E8nkSsrc8u70XS_geDK8gWkVS03IkhKersWg" class="artist-thumb" title="Maluma" alt="" width="120" height="125">
+    					</div>
+        				
+        				<div id="artist-bio-ext">
+                        <div class="hidden-xs">
+        						        						<h1 class="artist"><a href="artist/Maluma/2669415">Maluma</a></h1>
+        					</div>
+        					<p class="artist hidden-sm hidden-md hidden-lg"><a href="artist/Maluma/2669415">Maluma</a></p>
+        												<p class="artist-bio">Juan Luis Londoño Arias (born 28 January 1994), known professionally as Maluma, is a Colombian singer, songwriter, and actor signed to Sony Music Colombia, Sony Latin and Fox Music. Born and raised in Medellín, he developed an interest in music at a young age, and began recording songs at age 16. He released his debut album, Magia, a year later in 2012. However, his breakthrough album was 2015's Pretty Boy, Dirty Boy, which led to successful collaborations with artists Thalía, Shakira and Ricky Martin. He released F.A.M.E. in 2018, to further commercial success. He followed it up with 11:11, released the next year.</p>
+							<p class="artist-bio-link">
+								<a href="addbio.php?aid=2669415">Update this biography &raquo;</a><br>
+								<a href="https://www.biographies.net/people/en/maluma">Complete biography of Maluma &raquo;</a>
+							</p>
+						        				</div>
+        				<div>
+        					<p class="favorite-style-select" data-key="2669415" data-page="author">
+        						<a href="javascript:void(0);" class="rc3 s " id="artist-rate-btn" data-votes="2" data-aid="2669415" data-sub="0" data-uid="" data-target="#login-modal" alt="click to add your vote" title="click to add your vote"><i class="fa fa-star" aria-hidden="true"></i> <span>FAVORITE</span></a>
+        						<span id="author-rate-votes" onclick="javascript:location.href='artist-fans/2669415'">(2 fans)</span>
+        					</p>
+        				</div>
+				
+				</div>
+				
+			</div>
+
+										
+			<div class="row">
+				<div class="adunit-middle adunit-middle-2col clearfix">
+					<div class="col-xs-12 col-sm-12"><!-- /52304935/Lyrics_IA_300x250_A -->
+<div id='div-gpt-ad-Lyrics_IA_300x250_A'>
+<script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-Lyrics_IA_300x250_A');});</script>
+</div></div>
+				</div>
+			</div>
+					
+			<h3>Albums by <strong>Maluma</strong><span class="sort"><strong>Sort:</strong><a href="javascript:void(0);" class="rc3 s">By Album</a><a href="artist.php?name=Maluma&aid=2669415&o=1" class="rc3">A - Z</a></span></h3>
+			
+			<hr>
+			
+			<div class="tdata-ext">
+				<div class="clearfix"><h3 class="artist-album-label"><a href="/album/3825846/11%3A11">11:11</a> <span class="year">[2019]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAl81VI0pAEaikqPetb6-s2Yrqr936HwnmkZ5roB4mwpRkx8LYWQ24bA&s" alt="11:11"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/36233904/Maluma/11+PM">11 PM</a></strong></td><td class="tar qx">2:56</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233903/Maluma/HP">HP</a></strong></td><td class="tar qx">3:04</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233902/Maluma/No+Se+Me+Quita">No Se Me Quita</a></strong></td><td class="tar qx">3:40</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233901/Maluma/Dispuesto">Dispuesto</a></strong></td><td class="tar qx">2:42</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233900/Maluma/No+Puedo+Olvidarte">No Puedo Olvidarte</a></strong></td><td class="tar qx">3:11</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233899/Maluma/Me+Enamor%C3%A9+de+Ti">Me Enamoré de Ti</a></strong></td><td class="tar qx">3:19</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233898/Maluma/Extra%C3%B1%C3%A1ndote">Extrañándote</a></strong></td><td class="tar qx">3:47</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233897/Maluma/Shhh+%28Calla%27%29">Shhh (Calla')</a></strong></td><td class="tar qx">2:59</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233896/Maluma/Dinero+Tiene+Cualquiera">Dinero Tiene Cualquiera</a></strong></td><td class="tar qx">3:27</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233895/Maluma/Soltera">Soltera</a></strong></td><td class="tar qx">3:09</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233894/Maluma/Te+Quiero">Te Quiero</a></strong></td><td class="tar qx">3:50</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233893/Maluma/Instinto+Natural">Instinto Natural</a></strong></td><td class="tar qx">3:16</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233891/Maluma/La+Flaca">La Flaca</a></strong></td><td class="tar qx">2:40</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233890/Maluma/Puesto+Pa%27+Ti">Puesto Pa' Ti</a></strong></td><td class="tar qx">3:24</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233889/Maluma/D%C3%A9jale+Saber">Déjale Saber</a></strong></td><td class="tar qx">3:17</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3837758/Ahora">Ahora</a> <span class="year">[2019]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5-kaKuZZ0XOjRMAHOvlC7GAknI40DwLNc3tAu7KQ-5hpuUqXippr9U5N&s" alt="Ahora"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/36269407/Maluma/Amigos+con+Derechos">Amigos con Derechos</a></strong></td><td class="tar qx">3:47</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3902046/Fresh-Kerias">Fresh Kerias</a> <span class="year">[2019]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc8J52kGnPS3LqfGboPwqvGcm0dCT2Rn3J4gj51l_WMqm4aMu5q9lIiZU&s" alt="Fresh Kerias"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/36635793/Maluma/Fresh+Kerias">Fresh Kerias</a></strong></td><td class="tar qx">4:32</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3836833/Latina">Latina</a> <span class="year">[2019]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxioWoD3Sdln9sz3yIYGuy5cJjVZ82WqrZQDhA_Ki0_77Y3UqTLhNVhed0Wg&s" alt="Latina"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/36259900/Maluma/Latina">Latina</a></strong></td><td class="tar qx">3:46</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3817917/Madame-X">Madame X</a> <span class="year">[2019]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5_AcpUQz_44kZTOd4BAxeer4xecZw5N5pBuHQFHqAH3zMmkDi91-4Lk&s" alt="Madame X"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/36290739/Maluma/Medell%C3%ADn">Medellín</a></strong></td><td class="tar qx">4:58</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36290729/Maluma/Bitch+I%27m+Loca">Bitch I'm Loca</a></strong></td><td class="tar qx">2:51</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3820774/Medell%C3%ADn">Medellín</a> <span class="year">[2019]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQihQJF0Yq6bIAmD2CuX0k37KfUt4ulIUaGyt5ch1gtwp1yIahfQeh2ALk&s" alt="Medellín"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/36156650/Maluma/Medell%C3%ADn">Medellín</a></strong></td><td class="tar qx">5:11</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3813820/OCEAN">OCEAN</a> <span class="year">[2019]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCikjRK-BhkZrYOyzNi4axIvcrUFHeiOWVnDwvpPp3KoYrA_jdQZpzMQ&s" alt="OCEAN"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/36199564/Maluma/Cr%C3%A9eme">Créeme</a></strong></td><td class="tar qx">3:34</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3824199/Sue%C3%B1os">Sueños</a> <span class="year">[2019]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWBKbc1zCPtjbkdtJo9ghz0nns2gPeCJsw1zVba_byNRmoJD7TYNghOjOZ&s" alt="Sueños"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/36318657/Maluma/Que+M%C3%A1s+Pues">Que Más Pues</a></strong></td><td class="tar qx">5:05</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3718014/11%3A11">11:11</a> <span class="year">[2018]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOjg_lkyfKrTsnXy_aAUkUykJxw6l-nYWh6j4AKE2CdVoxLLqnhti_yuwDRw&s" alt="11:11"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/35415734/Maluma/Bandida">Bandida</a></strong></td><td class="tar qx">3:12</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3651017/44-Hits-Latino-2018">44 Hits Latino 2018</a> <span class="year">[2018]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIs-ALccb7_oZzNWDHUy1hldP4f4f9qKwzcA0jMG8fJnIKvIuQXSTcD10qDA" alt="44 Hits Latino 2018"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/34949108/Maluma/Felices+los+4">Felices los 4</a></strong></td><td class="tar qx">3:50</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3737368/Arms-Around-You">Arms Around You</a> <span class="year">[2018]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3rCyrYpoqgPkBJYuVo99EFmheNYIGUFQHIvbFw5NXGd9WefNwQ_hIXjBn&s" alt="Arms Around You"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/35584343/Maluma/Arms+Around+You">Arms Around You</a></strong></td><td class="tar qx">3:18</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3758885/Cr%C3%A9eme">Créeme</a> <span class="year">[2018]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbfYNs6ix7qaO6DyUmhUT47sDZANgtSIVy3cRGXVPlU8_7gNn9eid4Csw&s" alt="Créeme"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/35778634/Maluma/Cr%C3%A9eme">Créeme</a></strong></td><td class="tar qx">3:32</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3660546/F.A.M.E.">F.A.M.E.</a> <span class="year">[2018]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVNsHQTtjjfe1ANeiENyhm4borPQu7yLEgYRPuDclhTqOIUDAjj7ACj2W" alt="F.A.M.E."></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/35018108/Maluma/F.A.M.E.+%28Intro%29">F.A.M.E. (Intro)</a></strong></td><td class="tar qx">1:39</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35018107/Maluma/Coraz%C3%B3n">Corazón</a></strong></td><td class="tar qx">3:04</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35018106/Maluma/El+Pr%C3%A9stamo">El Préstamo</a></strong></td><td class="tar qx">3:39</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35018105/Maluma/Cuenta+a+Saldo">Cuenta a Saldo</a></strong></td><td class="tar qx">3:17</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35018104/Maluma/Hangover">Hangover</a></strong></td><td class="tar qx">4:01</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35018103/Maluma/Mi+Declaraci%C3%B3n">Mi Declaración</a></strong></td><td class="tar qx">3:45</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35018102/Maluma/How+I+Like+It">How I Like It</a></strong></td><td class="tar qx">2:51</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35018101/Maluma/Marinero">Marinero</a></strong></td><td class="tar qx">3:09</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35018100/Maluma/Delincuente">Delincuente</a></strong></td><td class="tar qx">3:26</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35018099/Maluma/Condena">Condena</a></strong></td><td class="tar qx">3:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35018098/Maluma/Ojos+Que+No+Ven">Ojos Que No Ven</a></strong></td><td class="tar qx">3:40</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35018097/Maluma/La+Ex">La Ex</a></strong></td><td class="tar qx">3:11</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35018096/Maluma/Unfollow">Unfollow</a></strong></td><td class="tar qx">3:21</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35018095/Maluma/Felices+los+4">Felices los 4</a></strong></td><td class="tar qx">4:04</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3760594/Los-Campeones-del-Pueblo-%28The-Big-Leagues%29">Los Campeones del Pueblo (The Big Leagues)</a> <span class="year">[2018]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaavDsDnZ3KuosI6Dx9ArOxBFheCchjdlMqr7IHvnHWMdWVvI4h_84gi9Rww&s" alt="Los Campeones del Pueblo (The Big Leagues)"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/35855344/Maluma/La+Luz">La Luz</a></strong></td><td class="tar qx">3:45</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3726317/Mi-Movimiento">Mi Movimiento</a> <span class="year">[2018]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjEdic84G70ZCHz4UI-nN6JOr-VJ4MJLgAy1Yxt0JLB6GDhB8Ow_r745CoVQ&s" alt="Mi Movimiento"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/35493342/Maluma/Todo+El+Amor">Todo El Amor</a></strong></td><td class="tar qx">3:33</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3687254/NRJ-Latino-Hits-2018">NRJ Latino Hits 2018</a> <span class="year">[2018]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8pIwDXGePnIAomNz-G_GCwxGTPQlzwmwgs_bwt89SUPkIlrkUFByy45d" alt="NRJ Latino Hits 2018"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/35207888/Maluma/Felices+los+4">Felices los 4</a></strong></td><td class="tar qx">3:50</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3687252/NRJ-Sunny-Hits-2018">NRJ Sunny Hits 2018</a> <span class="year">[2018]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4J68XX1qMSheifpY1Yp1hefxHbwvs6T6ijh_ZaIEBS4zMyiBnH7QAxdMUGw&s" alt="NRJ Sunny Hits 2018"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/35207936/Maluma/Felices+Los+4">Felices Los 4</a></strong></td><td class="tar qx">3:49</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3687258/NRJ-Urban-Hits-2018">NRJ Urban Hits 2018</a> <span class="year">[2018]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkc8n4tKKasztfyeKYOasazfBFVNu9PfRbocFV3kN-YhVHu59PBx-HfsqD" alt="NRJ Urban Hits 2018"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/35208058/Maluma/Hola">Hola</a></strong></td><td class="tar qx">3:11</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3688105/Todo-El-Amor">Todo El Amor</a> <span class="year">[2018]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwL6_MD36DEbmkg4aOVev5di-kmv1HHXn4IuZCHJr9rcuTQXZaWhxK8gg&s" alt="Todo El Amor"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/35191885/Maluma/Todo+El+Amor">Todo El Amor</a></strong></td><td class="tar qx">3:33</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3553388/%23Update">#Update</a> <span class="year">[2017]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu82OgeiJUcdycxKwb4A3Smx4dEl2fnhiejqUJ6gy_OuHujioM1TDHyZE" alt="#Update"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/34316809/Maluma/S%C3%B3lo+M%C3%ADa">Sólo Mía</a></strong></td><td class="tar qx">3:24</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3503475/69-Hits-Spring-2017">69 Hits Spring 2017</a> <span class="year">[2017]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80PtFAkA4zAUwqmgN_95Y8zaO0rnspiduatUbwMM9N0A0-F-4mKW1Ews" alt="69 Hits Spring 2017"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/34036253/Maluma/Vente+Pa%27+Ca">Vente Pa' Ca</a></strong></td><td class="tar qx">4:19</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3467473/69-Hits-Winter-2017">69 Hits Winter 2017</a> <span class="year">[2017]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDBwrHhDvWrUwG2WbznezBUNkVrSlf2aNqiC9Vqu_lbm9fU70YGG4JjDg" alt="69 Hits Winter 2017"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33811092/Maluma/Vente+Pa%27+Ca">Vente Pa' Ca</a></strong></td><td class="tar qx">4:19</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3626044/Coraz%C3%B3n">Corazón</a> <span class="year">[2017]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDj2MBBmnymdA0b3KKFMWU6ZHvs00BKpJp-bmoYBz1GCOw6GJttjbOHnD" alt="Corazón"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/34789428/Maluma/Coraz%C3%B3n">Corazón</a></strong></td><td class="tar qx">3:04</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3497987/El-Dorado">El Dorado</a> <span class="year">[2017]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLnhT5s1R5eYGUbpDFPdoWWuBY8IGdjqmAjtP3sx_DT2Mb2B82cwjVJ8" alt="El Dorado"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/34010564/Maluma/Chantaje">Chantaje</a></strong></td><td class="tar qx">3:15</td></tr><tr><td class="tal qx"><strong><a href="/lyric/34010560/Maluma/Trap">Trap</a></strong></td><td class="tar qx">3:20</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3505621/Felices-los-4">Felices los 4</a> <span class="year">[2017]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_nWjAKOmHDzPKNsqi05RwUViKV1_e65HMDjHChhf8HUCG2Hob28QvdU" alt="Felices los 4"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/34019024/Maluma/Felices+los+4">Felices los 4</a></strong></td><td class="tar qx">3:50</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3568476/Fun-Radio-Dancefloor-Summer-2017">Fun Radio Dancefloor Summer 2017</a> <span class="year">[2017]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk0wdbEFmFzsGagfRq2s4rvJn-L-V8okiJVQsIO0V9g5eJD32SHGnEMXI&s" alt="Fun Radio Dancefloor Summer 2017"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/34411352/Maluma/Felices+Los+4">Felices Los 4</a></strong></td><td class="tar qx">&nbsp;</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/101945/Los-Mejores-Duetos">Los Mejores Duetos</a> <span class="year">[2017]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJfx_QPrj0aXX1Qegp3i1wqwN7Gs9G1pwg8w6J-O01tDqwefztQfJzOVE" alt="Los Mejores Duetos"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33817264/Maluma/Desde+Esa+Noche">Desde Esa Noche</a></strong></td><td class="tar qx">3:48</td></tr><tr><td class="tal qx"><strong><a href="/lyric/33816744/Maluma/Tengo+un+Amor">Tengo un Amor</a></strong></td><td class="tar qx">3:47</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3506535/NRJ-Extravadance-2017">NRJ Extravadance 2017</a> <span class="year">[2017]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MrtoereI7pee7DaSGzNnvbLNDQfXcdEZZxbA3D7lprNpUWFile_dxOs" alt="NRJ Extravadance 2017"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/34037042/Maluma/Chantaje">Chantaje</a></strong></td><td class="tar qx">3:15</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3606609/NRJ-Latino-Hits-Only%21-2017">NRJ Latino Hits Only! 2017</a> <span class="year">[2017]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcNuFNlx8lxfki0myRW1kyLLkbY2tt-9vGPKsQVHNVSJZ2i76GeFjqTA" alt="NRJ Latino Hits Only! 2017"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/34690030/Maluma/Felices+los+4">Felices los 4</a></strong></td><td class="tar qx">&nbsp;</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3569457/NRJ-Party-Hits-2017">NRJ Party Hits 2017</a> <span class="year">[2017]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ98gimrn8Wvt9TmjcKeLT6dpcqcpDltUWhBJ6UsGtEGQwhqCfuWUnXAoH" alt="NRJ Party Hits 2017"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/34406344/Maluma/Believer">Believer</a></strong></td><td class="tar qx">&nbsp;</td></tr><tr><td class="tal qx"><strong><a href="/lyric/34406308/Maluma/Felices+Los+4">Felices Los 4</a></strong></td><td class="tar qx">&nbsp;</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3585035/NRJ-Pure-Hits-2017">NRJ Pure Hits 2017</a> <span class="year">[2017]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3oJ0qpw-aHmwzdLHVzuovMnN7x0Vzqv0Y7xttf_0K0K4UD0i_dUF574r-&s" alt="NRJ Pure Hits 2017"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/34505554/Maluma/Felices+Los+4">Felices Los 4</a></strong></td><td class="tar qx">&nbsp;</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3506561/Top-Latino-S%C3%BAper-%C3%89xitos">Top Latino Súper Éxitos</a> <span class="year">[2017]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTggADPh-6gXJkxmmJzqDx5ceu2oCFMSXKQC3RPMY4aycIfHp1xTPkezQ" alt="Top Latino Súper Éxitos"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/34037149/Maluma/Borro+cassette">Borro cassette</a></strong></td><td class="tar qx">&nbsp;</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3449496/100-Hits-2017">100 Hits 2017</a> <span class="year">[2016]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9uXfI34lJA4rjOXEMytywWy53Ah8YcxTFCiF1dNYhX1odrAWglZnULhHp" alt="100 Hits 2017"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33671165/Maluma/Vente+Pa%27+Ca">Vente Pa' Ca</a></strong></td><td class="tar qx">4:19</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3373830/Aire">Aire</a> <span class="year">[2016]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcqu2C0AXbGVBeZrZcQRFvBq2xGhew1POxJ1wpUV7xybIOtS-g8LHlOC0" alt="Aire"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33084853/Maluma/Aire">Aire</a></strong></td><td class="tar qx">3:43</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3428280/Chantaje">Chantaje</a> <span class="year">[2016]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbAMAeXpH7C539tSIqkADOingguiAdB5pEGrAzfqktBFuTVDHsMw5Xszg8" alt="Chantaje"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33482144/Maluma/Chantaje">Chantaje</a></strong></td><td class="tar qx">3:15</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3458863/Cuatro-Babys">Cuatro Babys</a> <span class="year">[2016]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRVX_4j3o3_1oiB88Zh_tmDY87AxBt1buRLtgzSfVDe84DKx7M4wm6i_wc" alt="Cuatro Babys"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33724245/Maluma/Cuatro+Babys">Cuatro Babys</a></strong></td><td class="tar qx">4:38</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3332049/El-Perdedor">El Perdedor</a> <span class="year">[2016]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDLU08dYoxMSrtC3TohTgtYcaVZlrSWeMQ500BaI9WbtsY554YkNGwzYW" alt="El Perdedor"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/32780222/Maluma/El+Perdedor">El Perdedor</a></strong></td><td class="tar qx">&nbsp;</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3395054/La-Fila">La Fila</a> <span class="year">[2016]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMY5h7b09boz8-JrjaNr506rPXgkwmwQH0QCD6VAIuT8xiuKkAcDY5e_D" alt="La Fila"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33246024/Maluma/La+Fila">La Fila</a></strong></td><td class="tar qx">3:24</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3326198/Latina">Latina</a> <span class="year">[2016]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk1gLupQgViyqlWvkw5SKwWkFVbKmMtKsY7pg-yybr_AG5SeCB1IS_QC4" alt="Latina"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/32802505/Maluma/Desde+Esa+Noche">Desde Esa Noche</a></strong></td><td class="tar qx">3:47</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3297764/Mi-Vicio-y-Mi-Adiccion">Mi Vicio y Mi Adiccion</a> <span class="year">[2016]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL3mwrfJLcCKm2exevzjwWarlIBC8-stajIV68yzKzBC_f4VUBx11pnJt4ow" alt="Mi Vicio y Mi Adiccion"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/32576859/Maluma/Que+S%C3%AD%2C+Que+No">Que Sí, Que No</a></strong></td><td class="tar qx">2:33</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3355254/Premios-Tu-Musica">Premios Tu Musica</a> <span class="year">[2016]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqU5BOLQJqQ3oKyrxpsBl-G9HMMfKSm8YozbnxQKvKojBL7AAVaMosKs" alt="Premios Tu Musica"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/32997170/Maluma/Borro+Cassette">Borro Cassette</a></strong></td><td class="tar qx">3:39</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3366565/Sobre-el-Amor-y-Sus-Efectos-Secundarios">Sobre el Amor y Sus Efectos Secundarios</a> <span class="year">[2016]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYixhuipY1XfnALMUn69j7Z4JOcVqM_F76GGxMXIvp7WGefl0_F4k-tp4" alt="Sobre el Amor y Sus Efectos Secundarios"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33037880/Maluma/Cu%C3%A1nto+Me+Duele">Cuánto Me Duele</a></strong></td><td class="tar qx">3:50</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3437729/The-Beginning">The Beginning</a> <span class="year">[2016]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpjUshntuVAYumuYVvZkXRg-nw8ueyXNbHmgsIiL6TMhZlSya5ifNpmwo" alt="The Beginning"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33578251/Maluma/Salgamos">Salgamos</a></strong></td><td class="tar qx">3:49</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3398677/Trap-Capos%3A-Season-1">Trap Capos: Season 1</a> <span class="year">[2016]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxcjDBZBE24-rODSmKRZkrN-BZxeQ7LInycRY37psAyzhnFe1tK4FWYs" alt="Trap Capos: Season 1"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33295568/Maluma/Cuatro+Babys">Cuatro Babys</a></strong></td><td class="tar qx">4:38</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3355233/Verano-2016">Verano 2016</a> <span class="year">[2016]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9m-ofS5htwkTJknZT6qWAXsiFjJcCrnTPEuLz_feLvCfe3EAYCoB7H1K4" alt="Verano 2016"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33101061/Maluma/Borro+Cassette">Borro Cassette</a></strong></td><td class="tar qx">3:38</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3408723/%C3%89-Fada-O-Filme">É Fada-O Filme</a> <span class="year">[2016]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAej4fp7Rkgx7M4Cu_MGHnjezsz0xrHIl7EUN8gWWc1_5uH4suu34-QE" alt="É Fada-O Filme"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33342566/Maluma/Sim+ou+n%C3%A3o">Sim ou não</a></strong></td><td class="tar qx">3:26</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3265368/Borro-Cassette">Borro Cassette</a> <span class="year">[2015]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3HkEcdn9uF3_Z4MUHE-PZWH_TQTIDfZcAeO1Nh9EXe93cpNmQF2exfRNxFQ" alt="Borro Cassette"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/32235059/Maluma/Borro+Cassette">Borro Cassette</a></strong></td><td class="tar qx">3:37</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3260398/Pretty-Boy%2C-Dirty-Boy">Pretty Boy, Dirty Boy</a> <span class="year">[2015]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpaQbc2QbynOxK0TN3rgUrnFebdVOjZ2fF7KyabvkCIgvwqWWxQOfCrFQ" alt="Pretty Boy, Dirty Boy"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/32230591/Maluma/Borro+Cassette">Borro Cassette</a></strong></td><td class="tar qx">3:27</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230590/Maluma/%C2%BFD%C3%B3nde+Est%C3%A1s%3F">¿Dónde Estás?</a></strong></td><td class="tar qx">3:17</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230589/Maluma/El+Perdedor">El Perdedor</a></strong></td><td class="tar qx">3:27</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230588/Maluma/Me+Gustas">Me Gustas</a></strong></td><td class="tar qx">3:37</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230587/Maluma/Sin+Contrato">Sin Contrato</a></strong></td><td class="tar qx">3:41</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230586/Maluma/Una+Aventura">Una Aventura</a></strong></td><td class="tar qx">3:50</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230585/Maluma/Tengo+un+Amor">Tengo un Amor</a></strong></td><td class="tar qx">3:47</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230584/Maluma/Pretextos">Pretextos</a></strong></td><td class="tar qx">3:48</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230583/Maluma/Ya+No+Es+Ni%C3%B1a">Ya No Es Niña</a></strong></td><td class="tar qx">3:35</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230582/Maluma/Solos">Solos</a></strong></td><td class="tar qx">3:27</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230581/Maluma/Tu+Cari%C3%B1o">Tu Cariño</a></strong></td><td class="tar qx">3:07</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230580/Maluma/Recu%C3%A9rdame">Recuérdame</a></strong></td><td class="tar qx">3:10</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230579/Maluma/La+Misma+Moneda">La Misma Moneda</a></strong></td><td class="tar qx">3:41</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230578/Maluma/Vuelo+Hacia+el+Olvido">Vuelo Hacia el Olvido</a></strong></td><td class="tar qx">3:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230576/Maluma/Carnaval+%5B%2A%5D">Carnaval [*]</a></strong></td><td class="tar qx">3:34</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3020591/D17-Summer-Hits">D17 Summer Hits</a> <span class="year">[2014]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydF52O3_oeYgQoc4G3pwWUY7Xa9QgiBOBwfW3Wf2Vqi7ojygeDZMowFY&s" alt="D17 Summer Hits"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/31042763/Maluma/Liar+Liar">Liar Liar</a></strong></td><td class="tar qx">3:32</td></tr><tr><td class="tal qx"><strong><a href="/lyric/31042737/Maluma/La+Temperatura">La Temperatura</a></strong></td><td class="tar qx">3:45</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/2838866/Chosen-Few-Urbano-Continues">Chosen Few Urbano Continues</a> <span class="year">[2013]</span></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0mpdiOZn5pleusXducDDW4vAIXIwHkPlXPcFZlG_ruYCSgYV6cf-UWiF" alt="Chosen Few Urbano Continues"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/30009206/Maluma/Intentalo">Intentalo</a></strong></td><td class="tar qx">3:07</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3592218/Hola">Hola</a></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToNh4cafAZ5wkuaXlj0nANuYDo7wWc9zbhjs9IDidisltH1yvb8WBwVw" alt="Hola"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/34589238/Maluma/Hola">Hola</a></strong></td><td class="tar qx">3:12</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3456930/Me-Gusta">Me Gusta</a></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7saoYNJCXyL2p6bLX1UNnKEA1bN8mA3tudaXYX7ivjpV2P4CtRmCCZjgU" alt="Me Gusta"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33711526/Maluma/Me+Gusta">Me Gusta</a></strong></td><td class="tar qx">3:42</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3422188/Me-Llamas-%5BRemix%5D">Me Llamas [Remix]</a></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYGv3fZ59LVHGEVm2SpTLMUC0RAIBzuJn-fxF9iZl0Ly8J4zj7y4TagqhU" alt="Me Llamas [Remix]"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33441653/Maluma/Me+Llamas+%5BRemix%5D">Me Llamas [Remix]</a></strong></td><td class="tar qx">3:30</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3439319/S%C3%AD-o-no">Sí o no</a></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUWBDLqocgmeDStqvqoUzQH-i3tbhKCIs5TOsS_jpvn9vpwuW6CiHxfNSXmw" alt="Sí o no"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/33567149/Maluma/S%C3%AD+o+No">Sí o No</a></strong></td><td class="tar qx">3:26</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label">Unknown Album</h3><div class="artist-album-thumb"><img loading="lazy" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScAY-QLTJoBxxsfPxF2N-E8nkSsrc8u70XS_geDK8gWkVS03IkhKersWg" alt="Unknown Album"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/36314638/Maluma/Medell%C3%ADn">Medellín</a></strong></td><td class="tar qx">&nbsp;</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37096437/Maluma/Cr%C3%A9eme">Créeme</a></strong></td><td class="tar qx">3:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37814273/Maluma/Me+Gusta+%5BRemix%5D">Me Gusta [Remix]</a></strong></td><td class="tar qx">3:41</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36102155/Maluma/Chantaje+%5BSalsa%5D">Chantaje [Salsa]</a></strong></td><td class="tar qx">3:46</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36493847/Maluma/Bella+%5BRemix%5D">Bella [Remix]</a></strong></td><td class="tar qx">3:38</td></tr><tr><td class="tal qx"><strong><a href="/lyric/30913172/Maluma/Salgamos">Salgamos</a></strong></td><td class="tar qx">3:47</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493604/Maluma/ADMV+%5BVersi%C3%B3n+Urbana%5D">ADMV [Versión Urbana]</a></strong></td><td class="tar qx">3:05</td></tr><tr><td class="tal qx"><strong><a href="/lyric/33901299/Maluma/Vente+Pa+%27Ca">Vente Pa 'Ca</a></strong></td><td class="tar qx">4:19</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493613/Maluma/Ansiedad">Ansiedad</a></strong></td><td class="tar qx">3:40</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36155619/Maluma/Clandestino">Clandestino</a></strong></td><td class="tar qx">3:52</td></tr><tr><td class="tal qx"><strong><a href="/lyric/34528496/Maluma/Solo+a+Solas">Solo a Solas</a></strong></td><td class="tar qx">3:24</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37122365/Maluma/Cr%C3%A9eme">Créeme</a></strong></td><td class="tar qx">3:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37083075/Maluma/Cr%C3%A9eme">Créeme</a></strong></td><td class="tar qx">3:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36412216/Maluma/Hola+Se%C3%B1orita">Hola Señorita</a></strong></td><td class="tar qx">3:26</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37047986/Maluma/Cr%C3%A9eme">Créeme</a></strong></td><td class="tar qx">3:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37046083/Maluma/Cr%C3%A9eme">Créeme</a></strong></td><td class="tar qx">3:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493616/Maluma/Viento+%28Interlude%29">Viento (Interlude)</a></strong></td><td class="tar qx">2:42</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37713723/Maluma/Cr%C3%A9eme">Créeme</a></strong></td><td class="tar qx">3:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37705673/Maluma/Un+A%C3%B1o+Tarde">Un Año Tarde</a></strong></td><td class="tar qx">3:17</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493610/Maluma/Me+Acuerdo+De+Ti">Me Acuerdo De Ti</a></strong></td><td class="tar qx">3:43</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37551549/Maluma/FRESH+KERIAS">FRESH KERIAS</a></strong></td><td class="tar qx">4:32</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37769618/Maluma/Pa%27+Ti+%5BSpanglish%5D">Pa' Ti [Spanglish]</a></strong></td><td class="tar qx">3:49</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32230577/Maluma/El+Tiki">El Tiki</a></strong></td><td class="tar qx">2:59</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37519118/Maluma/Me+Gusta+%5BRemix%5D">Me Gusta [Remix]</a></strong></td><td class="tar qx">3:41</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493608/Maluma/Booty">Booty</a></strong></td><td class="tar qx">2:37</td></tr><tr><td class="tal qx"><strong><a href="/lyric/33008630/Maluma/Fantasma">Fantasma</a></strong></td><td class="tar qx">3:17</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37791826/Maluma/Haw%C3%A1i">Hawái</a></strong></td><td class="tar qx">3:20</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37736152/Maluma/Pa%27+Ti+%5BSpanglish%5D">Pa' Ti [Spanglish]</a></strong></td><td class="tar qx">3:49</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35025514/Maluma/Bella+%5BRemix%5D">Bella [Remix]</a></strong></td><td class="tar qx">3:38</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37329654/Maluma/Porfa+%5BRemix%5D">Porfa [Remix]</a></strong></td><td class="tar qx">5:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37724358/Maluma/Pa%27+Ti+%5BSpanglish+Version%5D">Pa' Ti [Spanglish Version]</a></strong></td><td class="tar qx">3:49</td></tr><tr><td class="tal qx"><strong><a href="/lyric/38073296/Maluma/La+Burbuja">La Burbuja</a></strong></td><td class="tar qx">3:48</td></tr><tr><td class="tal qx"><strong><a href="/lyric/38073291/Maluma/Tonika">Tonika</a></strong></td><td class="tar qx">3:50</td></tr><tr><td class="tal qx"><strong><a href="/lyric/38073294/Maluma/Agua+de+Jamaica">Agua de Jamaica</a></strong></td><td class="tar qx">2:56</td></tr><tr><td class="tal qx"><strong><a href="/lyric/38073293/Maluma/Chocolate">Chocolate</a></strong></td><td class="tar qx">3:34</td></tr><tr><td class="tal qx"><strong><a href="/lyric/38073297/Maluma/Peligrosa">Peligrosa</a></strong></td><td class="tar qx">3:45</td></tr><tr><td class="tal qx"><strong><a href="/lyric/38073295/Maluma/Desayun-Arte">Desayun-Arte</a></strong></td><td class="tar qx">2:39</td></tr><tr><td class="tal qx"><strong><a href="/lyric/38073292/Maluma/Love">Love</a></strong></td><td class="tar qx">3:08</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35018094/Maluma/Felices+Los+4+%5BSalsa%5D">Felices Los 4 [Salsa]</a></strong></td><td class="tar qx">4:02</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37724356/Maluma/Pa%27+Ti">Pa' Ti</a></strong></td><td class="tar qx">3:50</td></tr><tr><td class="tal qx"><strong><a href="/lyric/34221195/Maluma/Chantaje">Chantaje</a></strong></td><td class="tar qx">3:15</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37228831/Maluma/Djadja+%5BRemix%5D">Djadja [Remix]</a></strong></td><td class="tar qx">2:46</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37596028/Maluma/La+Fila">La Fila</a></strong></td><td class="tar qx">3:23</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37769619/Maluma/Pa%27+Ti">Pa' Ti</a></strong></td><td class="tar qx">3:50</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36968386/Maluma/11+PM">11 PM</a></strong></td><td class="tar qx">2:55</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35289357/Maluma/El+Pr%C3%A9stamo">El Préstamo</a></strong></td><td class="tar qx">3:39</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32225471/Maluma/Bandida">Bandida</a></strong></td><td class="tar qx">3:13</td></tr><tr><td class="tal qx"><strong><a href="/lyric/34685056/Maluma/Hola">Hola</a></strong></td><td class="tar qx">3:12</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36668388/Maluma/Hola+Se%C3%B1orita">Hola Señorita</a></strong></td><td class="tar qx">3:26</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36668298/Maluma/Hola+Se%C3%B1orita">Hola Señorita</a></strong></td><td class="tar qx">3:26</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36449399/Maluma/La+Respuesta">La Respuesta</a></strong></td><td class="tar qx">3:01</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37875821/Maluma/M%C3%A1s+de+la+Una">Más de la Una</a></strong></td><td class="tar qx">3:56</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37736154/Maluma/Lonely">Lonely</a></strong></td><td class="tar qx">3:18</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37724357/Maluma/Lonely">Lonely</a></strong></td><td class="tar qx">3:18</td></tr><tr><td class="tal qx"><strong><a href="/lyric/32997160/Maluma/Un+Beso+%28Remix%29">Un Beso (Remix)</a></strong></td><td class="tar qx">3:28</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36701656/Maluma/%C2%BFD%C3%B3nde+Est%C3%A1s%3F">¿Dónde Estás?</a></strong></td><td class="tar qx">3:17</td></tr><tr><td class="tal qx"><strong><a href="/lyric/30891526/Maluma/Ole+Brazil">Ole Brazil</a></strong></td><td class="tar qx">3:30</td></tr><tr><td class="tal qx"><strong><a href="/lyric/31441548/Maluma/Imag%C3%ADnate+%5BRemix%5D">Imagínate [Remix]</a></strong></td><td class="tar qx">3:48</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37247105/Maluma/FEEL+THE+BEAT">FEEL THE BEAT</a></strong></td><td class="tar qx">3:58</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37248008/Maluma/FRESH+KERIAS">FRESH KERIAS</a></strong></td><td class="tar qx">4:32</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37185813/Maluma/FRESH+KERIAS">FRESH KERIAS</a></strong></td><td class="tar qx">4:32</td></tr><tr><td class="tal qx"><strong><a href="/lyric/35122513/Maluma/Imag%C3%ADnate">Imagínate</a></strong></td><td class="tar qx">&nbsp;</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37048053/Maluma/Cr%C3%A9eme">Créeme</a></strong></td><td class="tar qx">3:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37063505/Maluma/FRESH+KERIAS">FRESH KERIAS</a></strong></td><td class="tar qx">4:32</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36233892/Maluma/Tu+Vecina">Tu Vecina</a></strong></td><td class="tar qx">3:19</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36930209/Maluma/Cr%C3%A9eme">Créeme</a></strong></td><td class="tar qx">3:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36363902/Maluma/Medell%C3%ADn">Medellín</a></strong></td><td class="tar qx">&nbsp;</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37407931/Maluma/Cr%C3%A9eme">Créeme</a></strong></td><td class="tar qx">3:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36363901/Maluma/Medell%C3%ADn">Medellín</a></strong></td><td class="tar qx">&nbsp;</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36363900/Maluma/Medell%C3%ADn">Medellín</a></strong></td><td class="tar qx">&nbsp;</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36363899/Maluma/Medell%C3%ADn">Medellín</a></strong></td><td class="tar qx">&nbsp;</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36363898/Maluma/Medell%C3%ADn">Medellín</a></strong></td><td class="tar qx">&nbsp;</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36363809/Maluma/Medell%C3%ADn">Medellín</a></strong></td><td class="tar qx">&nbsp;</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36363808/Maluma/Medell%C3%ADn">Medellín</a></strong></td><td class="tar qx">&nbsp;</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36670923/Maluma/Vivo+Pensando+En+Ti">Vivo Pensando En Ti</a></strong></td><td class="tar qx">3:52</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36831997/Maluma/El+Clavo+%5BRemix%5D">El Clavo [Remix]</a></strong></td><td class="tar qx">2:53</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36207579/Maluma/Medell%C3%ADn">Medellín</a></strong></td><td class="tar qx">&nbsp;</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36157660/Maluma/Medell%C3%ADn">Medellín</a></strong></td><td class="tar qx">4:58</td></tr><tr><td class="tal qx"><strong><a href="/lyric/36689346/Maluma/Chantaje+%5BEl+Dorado+World+Tour%5D">Chantaje [El Dorado World Tour]</a></strong></td><td class="tar qx">3:31</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37409760/Maluma/Qu%C3%A9+Vas+Hacer">Qué Vas Hacer</a></strong></td><td class="tar qx">4:15</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37436105/Maluma/Porfa+%5BRemix%5D">Porfa [Remix]</a></strong></td><td class="tar qx">5:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37724487/Maluma/Pa%27+Ti+%5BSpanglish%5D">Pa' Ti [Spanglish]</a></strong></td><td class="tar qx">3:49</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493615/Maluma/Madrid">Madrid</a></strong></td><td class="tar qx">3:18</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37671710/Maluma/Latina+%5BRemix%5D">Latina [Remix]</a></strong></td><td class="tar qx">4:12</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37517628/Maluma/Porfa+%5BRemix%5D">Porfa [Remix]</a></strong></td><td class="tar qx">5:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37644679/Maluma/Latina+%5BRemix%5D">Latina [Remix]</a></strong></td><td class="tar qx">4:12</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37633239/Maluma/Haw%C3%A1i">Hawái</a></strong></td><td class="tar qx">3:20</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493619/Maluma/Luz+Verde">Luz Verde</a></strong></td><td class="tar qx">3:03</td></tr><tr><td class="tal qx"><strong><a href="/lyric/30786695/Maluma/Punto+Final">Punto Final</a></strong></td><td class="tar qx">3:05</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493620/Maluma/La+Cura">La Cura</a></strong></td><td class="tar qx">2:56</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493622/Maluma/Cielo+A+Un+Diablo">Cielo A Un Diablo</a></strong></td><td class="tar qx">3:25</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493621/Maluma/Perd%C3%B3n">Perdón</a></strong></td><td class="tar qx">3:00</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493625/Maluma/Medallo+City">Medallo City</a></strong></td><td class="tar qx">3:53</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493605/Maluma/ADMV">ADMV</a></strong></td><td class="tar qx">3:13</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493607/Maluma/Quality">Quality</a></strong></td><td class="tar qx">2:41</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37419250/Maluma/Porfa+%5BRemix%5D">Porfa [Remix]</a></strong></td><td class="tar qx">5:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493618/Maluma/Cuidau">Cuidau</a></strong></td><td class="tar qx">3:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493614/Maluma/Salida+De+Escape">Salida De Escape</a></strong></td><td class="tar qx">3:04</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493617/Maluma/Parce">Parce</a></strong></td><td class="tar qx">4:08</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493623/Maluma/Haw%C3%A1i">Hawái</a></strong></td><td class="tar qx">3:20</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493612/Maluma/Mai+Mai">Mai Mai</a></strong></td><td class="tar qx">3:57</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493606/Maluma/Copas+De+Vino">Copas De Vino</a></strong></td><td class="tar qx">3:12</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493609/Maluma/Boy+Toy">Boy Toy</a></strong></td><td class="tar qx">3:15</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493611/Maluma/Vete+Vete">Vete Vete</a></strong></td><td class="tar qx">4:03</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37493624/Maluma/Bella-K">Bella-K</a></strong></td><td class="tar qx">3:43</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37371576/Maluma/FRESH+KERIAS">FRESH KERIAS</a></strong></td><td class="tar qx">4:32</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37457663/Maluma/Porfa+%5BRemix%5D">Porfa [Remix]</a></strong></td><td class="tar qx">5:33</td></tr><tr><td class="tal qx"><strong><a href="/lyric/37820353/Maluma/Imag%C3%ADnate+%5BRemix%5D">Imagínate [Remix]</a></strong></td><td class="tar qx">3:48</td></tr></tbody></table></div><div class="clearfix"><h3 class="artist-album-label"><a href="/album/3604871/Vivo-Pensando-en-ti">Vivo Pensando en ti</a></h3><div class="artist-album-thumb"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtB492jGO7n00uLQPurSVmWGEl2pv8-l6SIEBeD6Jx2YBZD0Bdt6hNONEMjw" alt="Vivo Pensando en ti"></div><table class="tdata"><colgroup><col style="width: 300px;"><col style="width: 180px;"></colgroup><thead><tr><th>Song</th><th>Duration</th></tr></thead><tbody><tr><td class="tal qx"><strong><a href="/lyric/34643122/Maluma/Vivo+Pensando+En+Ti">Vivo Pensando En Ti</a></strong></td><td class="tar qx">3:52</td></tr></tbody></table></div>			</div>
+			
+						
+			<div>
+        			<div id="s4-comments">
+    
+        		<h4>Share your thoughts on the <a href="artist/Maluma/2669415">Maluma Band</a> with the community:</h4>
+        <div class="comment-form-container">
+        
+        <form id="frm-comment">
+            
+            <input type="hidden" name="comment_id" id="commentId"/>
+            <input type="hidden" name="cmt_part" id="cmtPart" value="1"/>
+            <input type="hidden" id="current-website" value="3"/>
+            <input type="hidden" id="current-entity" value="artist"/>
+            <input type="hidden" id="current-entityid" value="2669415"/>
+            
+            <div class="form-group">
+            		
+        		                		<h3 id="frm-comment-count">0 Comments</h3>
+                <div class="form-control" id="comment" contenteditable="true" data-placeholder="Add a comment..."></div>
+                <div class="cmt-options">
+                		<div class="container-fluid row">
+                			<div class="col-xs-8 no-padding">
+                			                        <div id="notify-box" class="checkbox">
+                        		<label class="small"><input type="checkbox" id="notify"> Notify me of new comments via email.</label>
+                      	</div>
+                      	                			</div>
+                			<div class="col-xs-4 no-padding text-right">
+                				<button type="button" id="submitButton" class="btn btn-submit primary btn-sm" data-uid="" data-target="#login-modal">Publish</button>
+                			</div>
+                		</div>
+                </div>
+            </div>
+            
+            <div id="comment-message"></div>
+            
+        </form>
+        
+    </div>
+
+    <ul id='comments-list' class='clearfix'></ul></div>
+
+<!-- Modal -->
+<div class="modal fade" id="cmt-report-modal" tabindex="-1" role="dialog" aria-labelledby="cmt-report-label" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				<h4 class="modal-title" id="cmt-report-label">Report Comment</h4>
+			</div>
+			<div class="modal-body">
+        			<p>We're doing our best to make sure our content is useful, accurate and safe.<br>If by any chance you spot an inappropriate comment while navigating through our website please use this form to let us know, and we'll take care of it shortly.</p>
+            		<div class="form-group">
+        				<textarea id="cmt-report-reason" class="form-control" rows="3" placeholder="You may specify the reason for the report here..."></textarea>
+        			</div>
+        			<input type="hidden" id="cmt-reported">
+            </div>
+			<div class="modal-footer">
+				<button type="button" class="btn" data-dismiss="modal">Cancel</button>
+				<button type="button" class="btn primary report-comment">Report</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="login-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="loginModal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="loginModal">You need to be logged in to <span class="modal-type">favorite</span>.</h4>
+            </div>
+            <div class="modal-body edit-content">
+    				<div class="row social-signin">
+    					<div class="col-xs-12 col-sm-6">
+    						<div class='g-signin2' data-onsuccess='onSuccess' data-onfailure='onFailure' data-scope='profile email' data-width='240' data-height='40' data-longtitle='true' data-theme='dark'></div>    					</div>
+    					<div class="col-xs-12 col-sm-6">
+    						<div class='fb-login-button' data-onlogin='checkLoginState();' data-scope='email' data-width='240px' data-max-rows='3' data-size='large' data-show-faces='false' data-auto-logout-link='false' data-use-continue-as='true'></div>    					</div>
+    				</div>
+        			
+        			<ul class="sn-message"></ul>
+        			
+    				<div class="or-container">
+                    <hr class="or-hr">
+                    <div id="or">or fill the form below</div>
+                </div>
+                
+                <div class="row">
+                		<div class="col-sm-6 short_signin">
+                			<h4>Create a new account</h4>
+                			<div class="text-center waiting"><i class="fa fa-spinner fa-spin fa-3x fa-fw"></i></div>
+                			<form id="modal-signup-frm" method="post">
+                				<ul class="errors-list"></ul>	
+                				<input type="hidden" name="action" id="frm-action" value="short_signin">
+                				<input type="hidden" name="source" id="frm-source" value="0">
+                				<input type="hidden" name="website" id="website" value="3">
+                				<input type="hidden" name="sra" id="fld-sra" value="37.201.226.130">
+                				
+                				<div class="bcols clearfix row">
+                					
+                					<section class="col-xs-12">
+                						<div class="col-left">
+                							<p>
+                								<label for="fld-rname">Your name:<span class="mandatory">*<span>Required</span></span></label>
+                								<input type="text" name="rname" id="fld-rname" value="" maxlength="100" class="fw">
+                							</p>
+                						</div>
+                					</section>
+                					
+                					<section class="col-xs-12">
+                						<div class="col-left">
+                							<p>
+                								<label for="fld-uemail">Your email address:<span class="mandatory">*<span>Required</span></span></label>
+                								<input type="text" name="uemail" id="fld-uemail" value="" maxlength="100" class="fw">
+                							</p>
+                						</div>
+                					</section>
+                					
+                					<section class="col-xs-12">
+                						<div class="col-left">
+                							<p>
+                								<label for="fld-uname">Pick a user name:<span class="mandatory">*<span>Required</span></span></label>
+                								<input type="text" name="uname" id="fld-uname" value="" maxlength="50" class="fw">
+                							</p>
+                						</div>
+                					</section>
+                					
+                					<section class="col-xs-12">
+                						<div class="col-left text-right">
+                							<p><button type="submit" class="btn primary">Join</button></p>
+                						</div>
+                					</section>
+                					
+                				</div>
+                			
+                			</form>
+                		</div>
+                		<div class="col-sm-6 short_login">
+                			<h4>Log In</h4>
+                			<div class="text-center waiting"><i class="fa fa-spinner fa-spin fa-3x fa-fw"></i></div>
+                			<form id="modal-login-frm" method="post">
+                				<ul class="errors-list"></ul>
+                				<input type="hidden" name="action" id="frm-action-2" value="short_login">
+                				<div class="scols clearfix">
+                					<section>
+            							<p>
+            								<label for="fld-uname-2">Username:<span class="mandatory">*<span>Required</span></span></label>
+            								<input type="text" name="uname" id="fld-uname-2" value="" maxlength="50" class="fw">
+            							</p>
+                					</section>
+                					
+                					<section>
+            							<p>
+            								<label for="fld-upass">Password:<span class="mandatory">*<span>Required</span></span></label>
+            								<input type="password" name="upass" id="fld-upass" value="" maxlength="30" class="fw">
+            							</p>
+                					</section>
+                					
+                					<section>
+            							<div class="inner-section text-right">
+            								<p><button type="submit" class="btn primary">Log In</button></p>
+            								<br>
+            								<p class="ptext">Forgot your password?&nbsp;&nbsp;&nbsp;<button type="button" class="btn secondary xxsml" onclick="location.href='https://www.lyrics.com/forgotpass.php';">Retrieve it</button></p>
+            							</div>
+                					</section>
+                					
+                				</div>
+                			</form>
+                		</div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div>        		</div>
+        		
+			<div class="callout clearfix row">
+				<div>
+					<div class="callout-int">
+						<div class="row">
+							<div class="col-xs-12 col-sm-8">
+								<hgroup>
+									<h2>Missing lyrics by Maluma?</h2>
+									<h3>Know any other songs by Maluma? Don't keep it to yourself!</h3>
+								</hgroup>
+							</div>
+							<div class="col-xs-12 col-sm-4">
+								<div class="actions"><button type="button" class="btn btn-2 primary lrg" onclick="location.href='https://www.lyrics.com/addlyric.php?aid=2669415';">Add it Here</button></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	
+	<div id="content-aside" class="col-sm-4 col-sm-pull-8">
+		<div class="hidden-xs">
+    <div class="sep-area"><hr class="sep"></div>
+<div class="tagline">
+	<h3>The Web's Largest Resource for</h3>
+	<h2>Music, Songs <span>&amp;</span> Lyrics</h2>
+</div>    <div class="nsep"><hr><h3>A Member Of The <span>STANDS4 Network</span></h3></div>
+    <div id="sb-social">
+	<div class="clearfix">
+	<div class="social" title="Share this page on Facebook"><a id="share-facebook" href="javascript:void(0);" target="_blank" rel="noopener noreferrer nofollow"><span class="fb"><i class="fa fa-facebook" aria-hidden="true"></i></span></a></div>
+	<div class="social" title="Share this page on Twitter"><a id="share-twitter" href="javascript:void(0);" target="_blank" rel="noopener noreferrer nofollow"><span class="tw"><i class="fa fa-twitter" aria-hidden="true"></i></span></a></div>
+	<div class="social" title="Share this page on Reddit"><a id="share-reddit" href="javascript:void(0);" target="_blank" rel="noopener noreferrer nofollow"><span class="rd"><i class="fa fa-reddit-alien" aria-hidden="true"></i></span></a></div>
+	<div class="social" title="Share this page with AddThis"><a id="share-addthis" href="javascript:void(0);" target="_blank" rel="noopener noreferrer nofollow"><span class="at"><i class="fa fa-plus" aria-hidden="true"></i></span></a></div>
+	</div>
+</div>    <div class="sep-area"><hr class="sep"></div>
+</div>		
+		
+<div class="cblocks">
+    <div class="cblock fam-artists">
+        	<hgroup class="clearfix">
+        		<h4>Maluma's</h4>
+        		<h3>Similar Artists</h3>
+        	</hgroup>
+        	<span class="more"><a href="/similar-artists/2669415">&raquo;</a></span>
+        	<div class="cblock-int">
+        		<ul><li><div class="artist-img"><a href="artist/J-Balvin/2137844880" aria-label="J Balvin"><img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Jb1qc5i3DZVHYFbfFmCoIemTVnlNceAmj--6MyEtFZcX7MMy-We8F4U&s" alt="" title="J Balvin" width="50" height="50"></a></div><div class="artist-infos"><div class="artist-title"><strong><a href="artist/J-Balvin/2137844880">J Balvin</a></strong></div><div class="artist-fans"><a href="artist-fans/">1 fan</a></div></div></li><li><div class="artist-img"><a href="artist/Karol-G/3197139" aria-label="Karol G"><img loading="lazy" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSd7vz55Ly5HIw-yxVPZxAuYkCJkY6QWKhMkNV0I0naYkf4f0aHdbvCN5s" alt="" title="Karol G" width="50" height="50"></a></div><div class="artist-infos"><div class="artist-title"><strong><a href="artist/Karol-G/3197139">Karol G</a></strong></div><div class="artist-fans"><a href="artist-fans/">0 fans</a></div></div></li><li><div class="artist-img"><a href="artist/Yandel/626285" aria-label="Yandel"><img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYCk-Tbr3agTK7Mh_GNXLchKv3eXGyP6FW5fG5oSGuDcCRq9YmNhmKGTU&s" alt="" title="Yandel" width="50" height="50"></a></div><div class="artist-infos"><div class="artist-title"><strong><a href="artist/Yandel/626285">Yandel</a></strong></div><div class="artist-fans"><a href="artist-fans/">0 fans</a></div></div></li><li><div class="artist-img"><a href="artist/Ozuna/3228162" aria-label="Ozuna"><img loading="lazy" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvDDh-rRT0rgI0NMMggfAJ7Gd9s3sm9gS-sRxFI1rmT257-8Iv2yKLzyJT" alt="" title="Ozuna" width="50" height="50"></a></div><div class="artist-infos"><div class="artist-title"><strong><a href="artist/Ozuna/3228162">Ozuna</a></strong></div><div class="artist-fans"><a href="artist-fans/">6 fans</a></div></div></li><li><div class="artist-img"><a href="artist/Feid/907901" aria-label="Feid"><img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROF3Pn-gYzv_n8ylAHm2coqmzOJSFjUjtugqxAS9806SG-v79qyLssmEWx&s" alt="" title="Feid" width="50" height="50"></a></div><div class="artist-infos"><div class="artist-title"><strong><a href="artist/Feid/907901">Feid</a></strong></div><div class="artist-fans"><a href="artist-fans/">0 fans</a></div></div></li></ul>
+        	</div>
+    </div>
+</div>
+<div class="cblocks">
+	<div class="cblock radio">
+		<div class="radio-head">
+			<div class="icon-radio">
+				<span class="fa-stack fa-lg">
+        				<i class="fa fa-circle-o-notch fa-stack-2x"></i>
+        				<i class="fa fa-microphone fa-stack-1x"></i>
+            		</span>
+			</div>
+			<div class="radio-title">
+				<div>Maluma tracks</div>
+				<h4>On Radio Right Now</h4>
+			</div>
+		</div>
+		<div class="cblock-int radio-container">
+			<div id="dar_preview"><i class="fa fa-circle-o-notch fa-spin"></i> Loading...</div>
+			<div class="image-viewer" data-name="Maluma"></div>
+		</div>
+		<p class="powered-by container-fluid">
+			Powered by <strong><a rel="nofollow" href="http://onrad.io" target="_blank">OnRad.io</a></strong>
+		</p>
+		<hr>
+		<p class="powered-by container-fluid" style="text-align: center;">
+			Think you know music? Test your <strong><a rel="nofollow" href="https://yourmusiciq.com/" target="_blank">MusicIQ here!</a></strong>
+		</p>
+	</div>
+</div>		
+		
+<section class="ad-slot"><!-- /52304935/Lyrics_LR_300x250_A -->
+<div id='div-gpt-ad-Lyrics_LR_300x250_A'>
+<script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-Lyrics_LR_300x250_A');});</script>
+</div></section>
+<section class="visible-xs cblocks">
+    <div class="alpha-mob cblock">
+        	<hgroup class="clearfix">
+        		<h3>Browse Lyrics.com</h3>
+        	</hgroup>
+        	<div class="cblock-int">
+        		<div class="alpha-mob-list">
+        			<a href="/artists/0">#</a><a href="/artists/A">A</a><a href="/artists/B">B</a><a href="/artists/C">C</a><a href="/artists/D">D</a><a href="/artists/E">E</a><a href="/artists/F">F</a><a href="/artists/G">G</a><a href="/artists/H">H</a><a href="/artists/I">I</a><a href="/artists/J">J</a><a href="/artists/K">K</a><a href="/artists/L">L</a><a href="/artists/M">M</a><a href="/artists/N">N</a><a href="/artists/O">O</a><a href="/artists/P">P</a><a href="/artists/Q">Q</a><a href="/artists/R">R</a><a href="/artists/S">S</a><a href="/artists/T">T</a><a href="/artists/U">U</a><a href="/artists/V">V</a><a href="/artists/W">W</a><a href="/artists/X">X</a><a href="/artists/Y">Y</a><a href="/artists/Z">Z</a>        		</div>
+        	</div>
+    </div>
+</section><section class="ad-slot"><!-- /52304935/Lyrics_LR_300x250_B -->
+<div id='div-gpt-ad-Lyrics_LR_300x250_B'>
+<script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-Lyrics_LR_300x250_B');});</script>
+</div></section>
+	<div class="cblocks">
+		<div class="cblock promotions-list">
+			<hgroup class="clearfix">
+				<h4>Our awesome collection of</h4>
+				<h3>Promoted Songs</h3>
+			</hgroup>
+			<span class="more"><a href="promoted-songs.php">&raquo;</a></span>
+			<div class="cblock-int">
+				<ul><li><div class="promo-img"><a href="/sublyric/101101/Upon+The+Revelation/MAGNET+%26+KRYPTONITE"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/46262_upon-the-revelation.png" alt="" title="Upon The Revelation" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/101101/Upon+The+Revelation/MAGNET+%26+KRYPTONITE">MAGNET & KRYPTONITE</a></strong></div><div class="promo-artist"><a href="/sublyric/101101/Upon+The+Revelation/MAGNET+%26+KRYPTONITE">Upon The Revelation</a></div></div></li><li><div class="promo-img"><a href="/sublyric/109580/Emanuel+Prophet+Soul+feat++Lil+Sleep/Back+Yard+%28look+Out+for+the+Cookout%29"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/49049_emanuel-prophet-soul-feat-lil-sleep.png" alt="" title="Emanuel Prophet Soul feat  Lil Sleep" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/109580/Emanuel+Prophet+Soul+feat++Lil+Sleep/Back+Yard+%28look+Out+for+the+Cookout%29">Back Yard (look Out for …</a></strong></div><div class="promo-artist"><a href="/sublyric/109580/Emanuel+Prophet+Soul+feat++Lil+Sleep/Back+Yard+%28look+Out+for+the+Cookout%29">Emanuel Prophet Soul feat  Lil Sleep</a></div></div></li><li><div class="promo-img"><a href="/sublyric/108249/The+Immaculate+Crows/On+The+Ground"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/30381_the-immaculate-crows.png" alt="" title="The Immaculate Crows" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/108249/The+Immaculate+Crows/On+The+Ground">On The Ground</a></strong></div><div class="promo-artist"><a href="/sublyric/108249/The+Immaculate+Crows/On+The+Ground">The Immaculate Crows</a></div></div></li><li><div class="promo-img"><a href="/sublyric/109543/Numa/L%27Amore+non+riposa"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/47004_numa.png" alt="" title="Numa" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/109543/Numa/L%27Amore+non+riposa">L'Amore non riposa</a></strong></div><div class="promo-artist"><a href="/sublyric/109543/Numa/L%27Amore+non+riposa">Numa</a></div></div></li><li><div class="promo-img"><a href="/sublyric/5929/Michael+J/QUEEN+OF+HEARTS+GONE+TOO+SOON"><img loading="lazy" src="https://www.lyrics.com/images/artist/sub/4122_michael-j.png" alt="" title="Michael J" width="50" height="50"></a></div><div class="promo-details"><div class="promo-title"><strong><a href="/sublyric/5929/Michael+J/QUEEN+OF+HEARTS+GONE+TOO+SOON">QUEEN OF HEARTS GONE TOO…</a></strong></div><div class="promo-artist"><a href="/sublyric/5929/Michael+J/QUEEN+OF+HEARTS+GONE+TOO+SOON">Michael J</a></div></div></li></ul>
+			</div>
+			<p class="text-right"><button type="button" class="btn primary xxsml" onclick="location.href='promotion.php'">Get promoted&nbsp;<i class="fa fa-bullhorn"></i></button></p>
+		</div>
+	</div>
+<div class="cblocks">
+    	<div class="cblock quiz-preview">
+    		<hgroup class="clearfix">
+    			<h3>Quiz</h3>
+    			<h4>Are you a music master?</h4>
+    		</hgroup>
+    		 <span class="more"><a href="https://www.lyrics.com/lyrics-quiz">&raquo;</a></span>
+    		<div class="cblock-int">
+    			<h5>Devil Woman was a hit for Cliff Richard in what year?</h5>
+				<ul class="list-group">
+								<li class="list-group-item" data-correct="0">
+					<div class="qz-option">
+						<strong>A.</strong>&nbsp;<span class="word">1977</span>
+						<span class="qp-ico"><i class="fa fa-thumbs-o-up"></i></span>
+					</div>
+				</li>
+								<li class="list-group-item" data-correct="0">
+					<div class="qz-option">
+						<strong>B.</strong>&nbsp;<span class="word">1978</span>
+						<span class="qp-ico"><i class="fa fa-thumbs-o-up"></i></span>
+					</div>
+				</li>
+								<li class="list-group-item" data-correct="0">
+					<div class="qz-option">
+						<strong>C.</strong>&nbsp;<span class="word">1975</span>
+						<span class="qp-ico"><i class="fa fa-thumbs-o-up"></i></span>
+					</div>
+				</li>
+								<li class="list-group-item" data-correct="1">
+					<div class="qz-option">
+						<strong>D.</strong>&nbsp;<span class="word">1976</span>
+						<span class="qp-ico"><i class="fa fa-thumbs-o-up"></i></span>
+					</div>
+				</li>
+				            	</ul>
+            	<input type="hidden" id="game-answer" value="1976">
+            	<input type="hidden" id="game-question" value="Devil Woman was a hit for Cliff Richard in what year?">
+            	<input type="hidden" id="game-question-id" value="pAsb4CYYAk">
+    		</div>
+    	</div>
+</div>
+<form id="quiz-preview-form" action="https://www.lyrics.com/lyrics-quiz" method="post">
+	<input type="hidden" id="game-step" name="step" value="2">
+	<input type="hidden" id="game-score" name="score" value="">
+	<input type="hidden" id="game-total" name="total" value="1">
+</form><section class="ad-slot"><!-- /52304935/Lyrics_LR_300x250_C -->
+<div id='div-gpt-ad-Lyrics_LR_300x250_C'>
+<script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-Lyrics_LR_300x250_C');});</script>
+</div></section>
+<div class="cblocks"><div id="install-button" class="cblock fflag">
+	<div class="hp-sym-group-thumb"><i class="fa fa-3x fa-chrome" aria-hidden="true"></i></div>
+	<hgroup class="clearfix">
+		<h4><a id="inst1" href="https://chrome.google.com/webstore/detail/lyricscom/lemhemhgkggcfkeepaanfpkbjnkgfhpi" target="_blank">Free, no signup required</a>:</h4>
+		<h3 style="font-size: 28px; font-weight: 600; line-height: 36px;">
+			<a id="inst2" href="https://chrome.google.com/webstore/detail/lyricscom/lemhemhgkggcfkeepaanfpkbjnkgfhpi" target="_blank">Add to Chrome</a>
+		</h3>
+	</hgroup>
+	<div class="cblock-int clearfix" style="padding: 10px 12px; margin-top: -10px;">
+		<span style="font-size: 14px; color: #555;">Get instant explanation for any lyrics that hits you anywhere on the web!</span>
+		<div style="margin-top: 10px;"><button type="button" class="btn btn-2 primary" onclick="window.open('https://chrome.google.com/webstore/detail/lyricscom/lemhemhgkggcfkeepaanfpkbjnkgfhpi')">Two clicks install &raquo;</button></div>
+	</div>
+</div>
+
+<script>var is_chrome=/chrome/.test(navigator.userAgent.toLowerCase());if(!is_chrome){document.getElementById('install-button').style.display='none';}</script></div>
+<div class="cblocks"><div id="install-button-ff" class="cblock fflag">
+	<div class="hp-sym-group-thumb"><i class="fa fa-3x fa-firefox" aria-hidden="true"></i></div>
+	<hgroup class="clearfix">
+		<h4><a href="https://addons.mozilla.org/en-US/firefox/addon/lyrics-com/">Free, no signup required</a>:</h4>
+		<h3 style="font-size: 28px; font-weight: 600; line-height: 36px;"><a href="https://addons.mozilla.org/en-US/firefox/addon/lyrics-com/">Add to Firefox</a></h3>
+	</hgroup>
+	<div class="cblock-int clearfix" style="padding: 10px 12px; margin-top: -10px;">
+		<span style="font-size: 14px; color: #555;">Get instant explanation for any acronym or abbreviation that hits you anywhere on the web!</span>
+		<div style="margin-top: 10px;"><button type="button" class="btn btn-2 primary" onclick="location.href='https://addons.mozilla.org/en-US/firefox/addon/lyrics-com/'">Two clicks install &raquo;</button></div>
+	</div>
+</div>
+
+<script>var isFirefox=navigator.userAgent.toLowerCase().indexOf('firefox')>-1;if(!isFirefox){document.getElementById('install-button-ff').style.display='none';}</script></div>
+<section class="ad-slot"><!-- /52304935/Lyrics_LR_300x250_D -->
+<div id='div-gpt-ad-Lyrics_LR_300x250_D'>
+<script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-Lyrics_LR_300x250_D');});</script>
+</div></section>
+
+<br>	</div>
+	
+</div>
+
+</div>
+<footer id="footer">
+	<div id="footer-int" class="clearfix container-fluid">
+
+		<div class="clearfix">
+			<div class="col-xs-12 col-sm-3">
+				<div class="row">
+					<div class="col-xs-6 col-sm-5">
+						<h5>Company</h5>
+						<ul>
+							<li><a href="https://www.lyrics.com/">Home</a></li>
+							<li><a href="about.php">About</a></li>
+							<li><a href="news.php">News</a></li>
+							<li class="ex"><a href="press.php">Press</a></li>
+							<li><a href="awards.php">Awards</a></li>
+							<li><a href="testimonials.php">Testimonials</a></li>
+						</ul>
+					</div>
+
+					<div class="col-xs-6 col-sm-7">
+						<h5>Editorial</h5>
+						<ul>
+							<li><a href="login.php">Login</a></li>
+							<li><a href="addlyric.php">Add new Lyrics</a></li>
+							<li><a href="addalbum.php">Add a new Album</a></li>
+							<li class="ex"><a href="signup.php">Become a Member</a></li>
+							<li><a href="editors.php">Meet the Editors</a></li>
+							<li><a href="/justadded">Recently Added</a></li>
+							<li class="ex"><a href="/song-parodies">Song Parodies&nbsp;<b><i class="fa fa-smile-o"></i></b></a></li>
+							<li><a href="activity.php">Activity Log</a></li>
+							<li><a href="toplyrics.php">Most Popular</a></li>
+                             <li class="ex"><a href="/sell-your-lyrics">Sell Your Lyrics</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-4">
+				<div class="row">
+					<div class="col-xs-6 col-sm-6">
+						<h5>Services</h5>
+						<ul>
+							<li class="ex"><a href="/playlist">Your Playlist</a></li>
+							<li><a href="invite.php">Tell a Friend</a></li>
+							<li><a id="page-bookmark" href="">Bookmark Us</a></li>							
+							<li class="ex"><a href="promotion.php">Promote&nbsp;<i class="fa fa-bullhorn fa-1x"></i></a></li>
+							<li><a href="help-me-find-the-song.php">Help me Out!</a></li>
+							<li><a href="lyrics_api.php">Lyrics API</a></li>
+							<li class="ex"><a href="top-on-radio.php">Top on Radio&nbsp;<i class="fa fa-microphone fa-1x"></i></a></li>
+							<li><a href="/song-lyrics-generator">Lyrics Generator</a></li>
+							<li class="ex"><a href="https://www.lyrics.com/lyrics-quiz">The Lyrics Quiz</a></li>
+                            <li><a href="/marketplace">Marketplace&nbsp;<i class="fa fa-shopping-bag fa-1x"></i></a></li>
+						</ul>
+					</div>
+
+					<div class="col-xs-6 col-sm-6">
+						<h5>Legal &amp; Contact</h5>
+						<ul class="last">
+							<li><a href="terms.php">Terms of Use</a></li>
+							<li><a href="privacy.php">Privacy Policy</a></li>
+							<li><a href="contact.php">Contact Us</a></li>
+							<li class="ex"><a href="advertise.php">Advertise</a></li>
+							<li><a href="affiliate-program.php">Affiliate Program	</a></li>
+							<li>&nbsp;</li>
+                        		<li><span class="light">Get the Apps:</span></li>
+							<li>
+	                            <a style="font-size:20px; display: inline-block;" href="https://apps.apple.com/us/app/lyrics-com/id1467868195" target="_blank">
+	                                <i class="fa fa-apple"></i>
+	                            </a>&nbsp;&nbsp;
+								<a style="font-size:20px; display: inline-block" href="https://play.google.com/store/apps/details?id=com.stand4.lyrics" target="_blank">
+	                            	<i class="fa fa-android"></i>
+	                            </a>
+	                        </li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			
+<div id="s4-network" class="col-xs-12 col-sm-5">
+	<div class="row">
+		<h5 class="col-xs-12 col-sm-12">The STANDS4 Network</h5>
+	</div>
+
+	<!-- Desktop version -->
+	<div class="clearfix row hidden-xs">
+		<div class="col-xs-12 col-sm-8">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6">
+					<ul>
+						<li class="nw-abbreviations"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.abbreviations.com/">Abbreviations</a></li>
+						<li class="nw-calculator"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.calculators.net/">Calculators</a></li>
+						<li class="nw-grammar"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.grammar.com/">Grammar</a></li>
+						<li class="nw-phrases"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.phrases.com/">Phrases</a></li>
+						<li class="nw-references"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.references.net/">References</a></li>
+						<li class="nw-symbols"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.symbols.com/">Symbols</a></li>
+					</ul>
+				</div>
+
+				<div class="col-xs-6 col-sm-6">
+					<ul>
+						<li class="nw-anagrams"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.anagrams.net/">Anagrams</a></li>
+						<li class="nw-convert"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.convert.net/">Conversions</a></li>
+						<li class="nw-ua"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.literature.com/">Literature</a></li>
+						<li class="nw-poetry"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.poetry.com/">Poetry</a></li>
+						<li class="nw-rhymes"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.rhymes.net/">Rhymes</a></li>
+						<li class="nw-synonyms"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.synonyms.com/">Synonyms</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-xs-12 col-sm-4">
+			<ul class="last">
+				<li class="nw-biographies"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.biographies.net/">Biographies</a></li>
+				<li class="nw-definitions"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.definitions.net/">Definitions</a></li>
+				<li class="nw-lyrics"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.lyrics.com/">Lyrics</a></li>
+				<li class="nw-quotes"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.quotes.net/">Quotes</a></li>
+				<li class="nw-scripts"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.scripts.com/">Scripts</a></li>
+				<li class="nw-uszip"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.uszip.com/">Zip Codes</a></li>
+			</ul>
+		</div>
+
+	</div>
+
+	<!-- Mobile version -->
+	<div class="clearfix row hidden-sm hidden-md hidden-lg">
+		<div class="col-xs-12 col-sm-8">
+			<div class="row">
+				<div class="col-xs-6 col-sm-6">
+					<ul>
+						<li class="nw-abbreviations"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.abbreviations.com/">Abbreviations</a></li>
+						<li class="nw-anagrams"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.anagrams.net/">Anagrams</a></li>
+						<li class="nw-biographies"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.biographies.net/">Biographies</a></li>
+						<li class="nw-convert"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.convert.net/">Conversions</a></li>
+						<li class="nw-calculator"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.calculators.net/">Calculators</a></li>
+						<li class="nw-definitions"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.definitions.net/">Definitions</a></li>
+						<li class="nw-grammar"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.grammar.com/">Grammar</a></li>
+						<li class="nw-ua"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.literature.com/">Literature</a></li>
+						<li class="nw-lyrics"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.lyrics.com/">Lyrics</a></li>
+					</ul>
+				</div>
+
+				<div class="col-xs-6 col-sm-6">
+					<ul>
+						<li class="nw-phrases"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.phrases.com/">Phrases</a></li>
+						<li class="nw-poetry"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.poetry.com/">Poetry</a></li>
+						<li class="nw-quotes"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.quotes.net/">Quotes</a></li>
+						<li class="nw-references"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.references.net/">References</a></li>
+						<li class="nw-rhymes"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.rhymes.net/">Rhymes</a></li>
+						<li class="nw-scripts"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.scripts.com/">Scripts</a></li>
+						<li class="nw-symbols"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.symbols.com/">Symbols</a></li>
+						<li class="nw-synonyms"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.synonyms.com/">Synonyms</a></li>
+						<li class="nw-uszip"><svg class="s4-shape"><polygon points="0,1 10,0 10,15 0,9"></polygon><polygon points="20,1 10,0 10,15 20,9"></polygon></svg><a rel="nofollow noopener noreferrer" href="https://www.uszip.com/">Zip Codes</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="clearfix">
+		<div class="copyright"><strong>&copy; 2001-2021 STANDS4 LLC.</strong><br>All rights reserved.</div>
+		<div id="social-icons">
+			<a rel="nofollow noopener noreferrer" href="https://www.facebook.com/STANDS4" target="_blank"><span class="social fb"><i class="fa fa-facebook" aria-hidden="true"></i></span></a>
+			<a rel="nofollow noopener noreferrer" href="https://twitter.com/lyrics_dot_com" target="_blank"><span class="social tw"><i class="fa fa-twitter" aria-hidden="true"></i></span></a>
+			<a rel="nofollow noopener noreferrer" href="https://www.linkedin.com/company/stands4/" target="_blank"><span class="social lkd"><i class="fa fa-linkedin" aria-hidden="true"></i></span></a>
+		</div>
+	</div>
+</div>
+		</div>
+		
+	</div>
+</footer>
+
+</div>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://static.stands4.com/app_common/css/smoothness/jquery-ui-1.12.1.custom.min.css?v=1.0.1">
+
+<script>if(document.getElementById('user-hist')==null&&typeof localStorage.lyr_history!=='undefined'){var nh=document.createElement('div');nh.id='user-hist';nh.innerHTML='<a href="/search-history" title="History"><i class="fa fa-history"></i></a>';document.getElementById('user-login').insertAdjacentElement('beforebegin',nh);}</script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>window.jQuery||document.write('<script src="https://static.stands4.com/app_common/js/libs/jquery-3.6.0.min.js"><\/script>')</script>
+
+<script src="https://static.stands4.com/app_common/js/libs/jquery-ui-1.12.1.custom.min.js?v=1.0.1"></script>
+
+
+<script src="https://static.stands4.com/app_lyrics/js/onradio/inline.js?v=1.3.31" async></script>
+
+<script src="https://static.stands4.com/app_common/js/libs/wselect.min.js" async></script>
+<!-- Bootstrap compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js" async></script>
+<!-- <script src="https://use.fontawesome.com/1d5fda5f00.js" async></script> -->
+<script src="https://static.stands4.com/app_lyrics/js/lyrc.min.js?v=1.3.31" async></script>
+
+</body>
+</html>
+<!-- Timer: 0.6489 secs | Server: ip-172-30-2-167 -->
